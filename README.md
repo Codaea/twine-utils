@@ -1,6 +1,6 @@
 # twine-utils
 
-📖 [API documentation](https://klembot.github.io/twine-utils/)
+📖 [TypeDoc API documentation](https://klembot.github.io/twine-utils/) | 📘 [Comprehensive API Guide](./API.md)
 
 This lets you work with Twee source, Twine 2 stories, and story formats in a
 programmatic way: combining them, adding extra JS or CSS, or otherwise modifying
